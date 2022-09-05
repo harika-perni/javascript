@@ -1,0 +1,9 @@
+console.log(Math.random());
+console.log(Math.random());
+console.log(Math.floor(12345.56775));
+console.log(Math.ceil(4567.87654));
+console.log(Math.round(234567.9876543));
+console.log(Math.sqrt(100));
+console.log(Math.sqrt(9));
+console.log(Math.LOG2E);
+console.log(Math.LOG10E);
