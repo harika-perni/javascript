@@ -20,6 +20,7 @@ for(let key in hari)
     console.log(key,hari[key]);
    
 }
+console.log(hari.address);
 
 
 
